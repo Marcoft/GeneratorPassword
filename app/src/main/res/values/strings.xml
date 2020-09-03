@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Password generator</string>
+    <string name="home">Home</string>
+    <string name="save">Save</string>
+    <string name="ChooseOptions">Choose options</string>
+    <string name="LowerCase">Lower case</string>
+    <string name="Uppercase">Uppercase</string>
+    <string name="Numbers">Numbers</string>
+    <string name="Characters">Characters</string>
+    <string name="Eightcharacters">8 characters</string>
+    <string name="GenerateNew">Generate new</string>
+    <string name="Sort">Sort</string>
+    <string name="CopyClipboard">Copy to clipboard</string>
+    <string name="YourPassword">Your password</string>
+    <string name="enter_key_password">Enter key password</string>
+    <string name="enter_name_for_the_password">Enter name for the password</string>
+    <string name="enter_password">Enter password</string>
+    <string name="saveFragmentHome">Save this password?</string>
+    <string name="noFragmentHome">No</string>
+    <string name="yesFragmentHome">Yes</string>
+    <string name="PasswordExist">This password already exists!</string>
+    <string name="FillFields">Fill in all the fields</string>
+    <string name="PasswordClipBoard">Password saved to clipboard</string>
+    <string name="ChooseSomething">Choose at least something</string>
+    <string name="symbol1"> symbol</string>
+    <string name="symbol15"> characters</string>
+    <string name="symbol5"> characters</string>
+    <string name="clickExit">Click again to exit</string>
+    <string name="ErrorAddDate">Error adding data</string>
+    <string name="Password">Password: </string>
+    <string name="copied"> copied</string>
+
+</resources>
